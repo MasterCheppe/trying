@@ -1,0 +1,27 @@
+.blue {
+    color: red;
+    background-color: rgb(166, 130, 199);
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    background-color: brown;
+    color: white;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-image: url(jerry.jpg)
+}
+.santiago {
+    color: tomato;
+    font-family: cursive;
+    background-color: sandybrown;
+    width: 50%;
+    
+
+
+}
